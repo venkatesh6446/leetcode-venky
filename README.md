@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/venkatesh6446/leetcode-venky/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/venkatesh6446/leetcode-venky/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/venkatesh6446/leetcode-venky/tree/master/2478-longest-nice-subarray) |
 | [2665-minimum-time-to-repair-cars](https://github.com/venkatesh6446/leetcode-venky/tree/master/2665-minimum-time-to-repair-cars) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/venkatesh6446/leetcode-venky/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/venkatesh6446/leetcode-venky/tree/master/2308-divide-array-into-equal-pairs) |
 ## Bit Manipulation
 |  |
@@ -50,5 +52,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/venkatesh6446/leetcode-venky/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/venkatesh6446/leetcode-venky/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+## String
+|  |
+| ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/venkatesh6446/leetcode-venky/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+## Topological Sort
+|  |
+| ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/venkatesh6446/leetcode-venky/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 <!---LeetCode Topics End-->
