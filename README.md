@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/venkatesh6446/leetcode-venky/tree/master/0768-partition-labels) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/venkatesh6446/leetcode-venky/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/venkatesh6446/leetcode-venky/tree/master/2308-divide-array-into-equal-pairs) |
 ## Bit Manipulation
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/venkatesh6446/leetcode-venky/tree/master/0768-partition-labels) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/venkatesh6446/leetcode-venky/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Topological Sort
 |  |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/venkatesh6446/leetcode-venky/tree/master/0768-partition-labels) |
 | [3001-apply-operations-to-maximize-score](https://github.com/venkatesh6446/leetcode-venky/tree/master/3001-apply-operations-to-maximize-score) |
 ## Monotonic Stack
 |  |
@@ -108,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3001-apply-operations-to-maximize-score](https://github.com/venkatesh6446/leetcode-venky/tree/master/3001-apply-operations-to-maximize-score) |
+## Two Pointers
+|  |
+| ------- |
+| [0768-partition-labels](https://github.com/venkatesh6446/leetcode-venky/tree/master/0768-partition-labels) |
 <!---LeetCode Topics End-->
