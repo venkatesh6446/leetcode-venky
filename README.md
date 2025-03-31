@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/venkatesh6446/leetcode-venky/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/venkatesh6446/leetcode-venky/tree/master/2478-longest-nice-subarray) |
 | [2665-minimum-time-to-repair-cars](https://github.com/venkatesh6446/leetcode-venky/tree/master/2665-minimum-time-to-repair-cars) |
+| [2681-put-marbles-in-bags](https://github.com/venkatesh6446/leetcode-venky/tree/master/2681-put-marbles-in-bags) |
 | [2690-house-robber-iv](https://github.com/venkatesh6446/leetcode-venky/tree/master/2690-house-robber-iv) |
 | [3001-apply-operations-to-maximize-score](https://github.com/venkatesh6446/leetcode-venky/tree/master/3001-apply-operations-to-maximize-score) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/venkatesh6446/leetcode-venky/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/venkatesh6446/leetcode-venky/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2681-put-marbles-in-bags](https://github.com/venkatesh6446/leetcode-venky/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/venkatesh6446/leetcode-venky/tree/master/3001-apply-operations-to-maximize-score) |
 | [3430-count-days-without-meetings](https://github.com/venkatesh6446/leetcode-venky/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/venkatesh6446/leetcode-venky/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/venkatesh6446/leetcode-venky/tree/master/0768-partition-labels) |
+| [2681-put-marbles-in-bags](https://github.com/venkatesh6446/leetcode-venky/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/venkatesh6446/leetcode-venky/tree/master/3001-apply-operations-to-maximize-score) |
 ## Monotonic Stack
 |  |
@@ -115,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/venkatesh6446/leetcode-venky/tree/master/0768-partition-labels) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2681-put-marbles-in-bags](https://github.com/venkatesh6446/leetcode-venky/tree/master/2681-put-marbles-in-bags) |
 <!---LeetCode Topics End-->
