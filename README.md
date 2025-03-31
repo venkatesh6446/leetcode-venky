@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/venkatesh6446/leetcode-venky/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/venkatesh6446/leetcode-venky/tree/master/2308-divide-array-into-equal-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/venkatesh6446/leetcode-venky/tree/master/3227-find-missing-and-repeated-values) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/venkatesh6446/leetcode-venky/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2478-longest-nice-subarray](https://github.com/venkatesh6446/leetcode-venky/tree/master/2478-longest-nice-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/venkatesh6446/leetcode-venky/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/venkatesh6446/leetcode-venky/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Queue
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0768-partition-labels](https://github.com/venkatesh6446/leetcode-venky/tree/master/0768-partition-labels) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/venkatesh6446/leetcode-venky/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/venkatesh6446/leetcode-venky/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Topological Sort
 |  |
 | ------- |
