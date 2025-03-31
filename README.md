@@ -58,12 +58,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [2793-count-the-number-of-complete-components](https://github.com/venkatesh6446/leetcode-venky/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/venkatesh6446/leetcode-venky/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Graph
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/venkatesh6446/leetcode-venky/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/venkatesh6446/leetcode-venky/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2793-count-the-number-of-complete-components](https://github.com/venkatesh6446/leetcode-venky/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/venkatesh6446/leetcode-venky/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## String
 |  |
@@ -129,4 +131,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2681-put-marbles-in-bags](https://github.com/venkatesh6446/leetcode-venky/tree/master/2681-put-marbles-in-bags) |
+## Depth-First Search
+|  |
+| ------- |
+| [2793-count-the-number-of-complete-components](https://github.com/venkatesh6446/leetcode-venky/tree/master/2793-count-the-number-of-complete-components) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2793-count-the-number-of-complete-components](https://github.com/venkatesh6446/leetcode-venky/tree/master/2793-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
