@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/venkatesh6446/leetcode-venky/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/venkatesh6446/leetcode-venky/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/venkatesh6446/leetcode-venky/tree/master/2478-longest-nice-subarray) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/venkatesh6446/leetcode-venky/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2665-minimum-time-to-repair-cars](https://github.com/venkatesh6446/leetcode-venky/tree/master/2665-minimum-time-to-repair-cars) |
 | [2681-put-marbles-in-bags](https://github.com/venkatesh6446/leetcode-venky/tree/master/2681-put-marbles-in-bags) |
 | [2690-house-robber-iv](https://github.com/venkatesh6446/leetcode-venky/tree/master/2690-house-robber-iv) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/venkatesh6446/leetcode-venky/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/venkatesh6446/leetcode-venky/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/venkatesh6446/leetcode-venky/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Graph
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/venkatesh6446/leetcode-venky/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/venkatesh6446/leetcode-venky/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/venkatesh6446/leetcode-venky/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/venkatesh6446/leetcode-venky/tree/master/3001-apply-operations-to-maximize-score) |
 | [3430-count-days-without-meetings](https://github.com/venkatesh6446/leetcode-venky/tree/master/3430-count-days-without-meetings) |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/venkatesh6446/leetcode-venky/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/venkatesh6446/leetcode-venky/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3227-find-missing-and-repeated-values](https://github.com/venkatesh6446/leetcode-venky/tree/master/3227-find-missing-and-repeated-values) |
 ## Stack
 |  |
@@ -127,9 +131,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/venkatesh6446/leetcode-venky/tree/master/0768-partition-labels) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/venkatesh6446/leetcode-venky/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/venkatesh6446/leetcode-venky/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/venkatesh6446/leetcode-venky/tree/master/2681-put-marbles-in-bags) |
 ## Depth-First Search
 |  |
@@ -138,5 +144,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/venkatesh6446/leetcode-venky/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/venkatesh6446/leetcode-venky/tree/master/2793-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
