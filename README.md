@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/venkatesh6446/leetcode-venky/tree/master/0203-remove-linked-list-elements) |
 | [2050-count-good-numbers](https://github.com/venkatesh6446/leetcode-venky/tree/master/2050-count-good-numbers) |
 ## Divide and Conquer
 |  |
@@ -224,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/venkatesh6446/leetcode-venky/tree/master/2280-count-good-triplets-in-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/venkatesh6446/leetcode-venky/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
