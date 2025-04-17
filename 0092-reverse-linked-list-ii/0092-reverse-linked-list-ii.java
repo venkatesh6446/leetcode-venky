@@ -10,30 +10,34 @@
  */
 import java.util.*;
 
-class Solution {
-    public ListNode reverseBetween(ListNode head, int left, int right) {
-        // Step 1: Store nodes into a list
-        List<ListNode> nodes = new ArrayList<>();
-        ListNode temp = head;
+class Solution 
+{
+    public ListNode reverseBetween(ListNode head, int l, int r) 
+    { 
+        // converting linked list to array list 
+       List<ListNode>obj=new ArrayList<>();
+       ListNode temp=head;
+       while(temp!=null)
+       {
+            obj.add(temp);
+            temp=temp.next;
+       }
 
-        while (temp != null) {
-            nodes.add(temp);
-            temp = temp.next;
-        }
-
-        // Step 2: Convert left/right to 0-based
-        int l = left - 1;
-        int r = right - 1;
-
-        // Step 3: Swap values between l and r
-        while (l < r) {
-            int t = nodes.get(l).val;
-            nodes.get(l).val = nodes.get(r).val;
-            nodes.get(r).val = t;
-            l++;
-            r--;
-        }
-
-        return head;
+       // 
+       l=l-1;
+       r=r-1;
+       while(l<r)
+       {
+        int t=obj.get(l).val;
+        obj.get(l).val=obj.get(r).val;
+        obj.get(r).val=t;
+        l++;
+        r--;
+       }
+       return head;
     }
+
+
+
+    
 }
