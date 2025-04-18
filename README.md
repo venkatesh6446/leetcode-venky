@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/venkatesh6446/leetcode-venky/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/venkatesh6446/leetcode-venky/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/venkatesh6446/leetcode-venky/tree/master/0206-reverse-linked-list) |
 | [2050-count-good-numbers](https://github.com/venkatesh6446/leetcode-venky/tree/master/2050-count-good-numbers) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/venkatesh6446/leetcode-venky/tree/master/0024-swap-nodes-in-pairs) |
 | [0092-reverse-linked-list-ii](https://github.com/venkatesh6446/leetcode-venky/tree/master/0092-reverse-linked-list-ii) |
 | [0203-remove-linked-list-elements](https://github.com/venkatesh6446/leetcode-venky/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/venkatesh6446/leetcode-venky/tree/master/0206-reverse-linked-list) |
