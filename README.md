@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/venkatesh6446/leetcode-venky/tree/master/0234-palindrome-linked-list) |
 | [3001-apply-operations-to-maximize-score](https://github.com/venkatesh6446/leetcode-venky/tree/master/3001-apply-operations-to-maximize-score) |
 ## Greedy
 |  |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/venkatesh6446/leetcode-venky/tree/master/0234-palindrome-linked-list) |
 | [0768-partition-labels](https://github.com/venkatesh6446/leetcode-venky/tree/master/0768-partition-labels) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/venkatesh6446/leetcode-venky/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Heap (Priority Queue)
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/venkatesh6446/leetcode-venky/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/venkatesh6446/leetcode-venky/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/venkatesh6446/leetcode-venky/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/venkatesh6446/leetcode-venky/tree/master/0234-palindrome-linked-list) |
 | [2050-count-good-numbers](https://github.com/venkatesh6446/leetcode-venky/tree/master/2050-count-good-numbers) |
 ## Divide and Conquer
 |  |
@@ -249,4 +252,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/venkatesh6446/leetcode-venky/tree/master/0092-reverse-linked-list-ii) |
 | [0203-remove-linked-list-elements](https://github.com/venkatesh6446/leetcode-venky/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/venkatesh6446/leetcode-venky/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/venkatesh6446/leetcode-venky/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
