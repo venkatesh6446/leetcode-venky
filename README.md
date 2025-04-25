@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2665-minimum-time-to-repair-cars](https://github.com/venkatesh6446/leetcode-venky/tree/master/2665-minimum-time-to-repair-cars) |
 | [2681-put-marbles-in-bags](https://github.com/venkatesh6446/leetcode-venky/tree/master/2681-put-marbles-in-bags) |
 | [2690-house-robber-iv](https://github.com/venkatesh6446/leetcode-venky/tree/master/2690-house-robber-iv) |
+| [2915-count-of-interesting-subarrays](https://github.com/venkatesh6446/leetcode-venky/tree/master/2915-count-of-interesting-subarrays) |
 | [3001-apply-operations-to-maximize-score](https://github.com/venkatesh6446/leetcode-venky/tree/master/3001-apply-operations-to-maximize-score) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/venkatesh6446/leetcode-venky/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/venkatesh6446/leetcode-venky/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/venkatesh6446/leetcode-venky/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/venkatesh6446/leetcode-venky/tree/master/2308-divide-array-into-equal-pairs) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/venkatesh6446/leetcode-venky/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2915-count-of-interesting-subarrays](https://github.com/venkatesh6446/leetcode-venky/tree/master/2915-count-of-interesting-subarrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/venkatesh6446/leetcode-venky/tree/master/3227-find-missing-and-repeated-values) |
 | [3548-find-the-count-of-good-integers](https://github.com/venkatesh6446/leetcode-venky/tree/master/3548-find-the-count-of-good-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/venkatesh6446/leetcode-venky/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2249-count-the-hidden-sequences](https://github.com/venkatesh6446/leetcode-venky/tree/master/2249-count-the-hidden-sequences) |
+| [2915-count-of-interesting-subarrays](https://github.com/venkatesh6446/leetcode-venky/tree/master/2915-count-of-interesting-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/venkatesh6446/leetcode-venky/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Union Find
 |  |
