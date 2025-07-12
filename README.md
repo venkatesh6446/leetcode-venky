@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/venkatesh6446/leetcode-venky/tree/master/0175-combine-two-tables) |
 | [0620-not-boring-movies](https://github.com/venkatesh6446/leetcode-venky/tree/master/0620-not-boring-movies) |
 | [1908-recyclable-and-low-fat-products](https://github.com/venkatesh6446/leetcode-venky/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
