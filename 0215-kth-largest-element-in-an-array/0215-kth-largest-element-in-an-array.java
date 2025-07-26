@@ -1,15 +1,27 @@
 import java.util.*;
 
-class Solution {
-    public int findKthLargest(int[] nums, int k) {
-        Arrays.sort(nums); // Sort array in ascending order
-        int i = nums.length - 1; // Start from the last (largest) index
+class Solution 
+{
+    public int findKthLargest(int[] nums, int k) 
+    {
+        
 
-        while (k > 1) { // Move back (k-1) times
-            i--;
-            k--;
+      //  Priorityqueue  pr = new Priortityqueue<>();
+      PriorityQueue<Integer> pr = new PriorityQueue<>();
+
+        for(int i=0;i<nums.length;i++)
+        {
+            if(pr.size()<k)
+            {
+                pr.add(nums[i]);
+            }
+            else if (nums[i]>pr.peek())
+           {
+                pr.poll(); // removing the top element form  the heap  if new element is grater then the top element 
+                pr.add(nums[i]);  // then we add the new element 
+
+            }
         }
-
-        return nums[i]; // i now points to the k-th largest element
+        return pr.peek();
     }
 }
