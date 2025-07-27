@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/venkatesh6446/leetcode-venky/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/venkatesh6446/leetcode-venky/tree/master/2280-count-good-triplets-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/venkatesh6446/leetcode-venky/tree/master/2308-divide-array-into-equal-pairs) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/venkatesh6446/leetcode-venky/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/venkatesh6446/leetcode-venky/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2478-longest-nice-subarray](https://github.com/venkatesh6446/leetcode-venky/tree/master/2478-longest-nice-subarray) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/venkatesh6446/leetcode-venky/tree/master/2527-count-subarrays-with-fixed-bounds) |
